@@ -1,0 +1,3 @@
+unauthorized access on python virtual environment:
+
+	"Set-ExecutionPolicy Unrestricted -Scope Process"
